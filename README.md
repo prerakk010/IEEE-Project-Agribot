@@ -25,4 +25,4 @@ Weed detection in crops
 
 * [Stanford Research Paper for Plant Disease Detection](http://cs231n.stanford.edu/reports/2017/pdfs/325.pdf)
 
-
+* [Using Deep Learning for Image-Based Plant Disease Detection](https://arxiv.org/pdf/1604.03169.pdf)
